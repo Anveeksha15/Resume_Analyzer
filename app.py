@@ -1,6 +1,6 @@
 import streamlit as st
-from backend.extractor import extract_text_from_pdf
-from backend.analyzer import analyze_resume
+from extractor import extract_text_from_pdf
+from analyzer import analyze_resume
 
 st.set_page_config(page_title="Resume Analyzer & Enhancer", layout="centered")
 
