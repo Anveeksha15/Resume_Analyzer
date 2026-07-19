@@ -1,4 +1,4 @@
-## 📄 Resume Analyzer & Enhancer
+## 📄 Resume Analyzer & Enhancer 
 
 A simple yet powerful Streamlit-based web app that allows users to upload their resume and a job/internship description to receive an in-depth analysis including ATS score, SWOT analysis, missing keywords, and personalized improvement suggestions.
 
