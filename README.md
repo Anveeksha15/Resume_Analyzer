@@ -64,9 +64,8 @@ A simple yet powerful Streamlit-based web app that allows users to upload their 
 
 ```
 resume-analyzer/
-├── backend/
-│   ├── extractor.py        # Extracts text from uploaded PDF
-│   └── analyzer.py         # Sends resume + job desc to GPT and returns analysis
+├── analyzer.py         # Sends resume + job desc to GPT and returns analysis
+├── extractor.py        # Extracts text from uploaded PDF
 ├── .env                    # API key (not included in repo)
 ├── app.py                  # Streamlit frontend
 ├── requirements.txt        # Python dependencies
